@@ -1,0 +1,18 @@
+{
+    "name": "com.desine-unity.cast-extension",
+    "version": "1.0.0",
+    "displayName": "Cast Extension",
+    "description": "Allows to cast: Cylinder",
+    "unity": "2019.1",
+    "dependencies": {},
+    "keywords": [
+        "utility",
+        "cast",
+        "extension",
+        "cylinder"
+    ],
+    "author": {
+        "name": "Napolov Vlad",
+        "email": "napolov.v.d@gmail.com"
+    }
+}
